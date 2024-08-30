@@ -27,6 +27,7 @@ const myArr2 = new Array(1,2,3,4)
 
 // slice, splice ---------------------------------------------
 
+/*
 console.log("A ", myArr) // orignal array
 
 const myn1 = myArr.slice(1, 3)
@@ -38,4 +39,6 @@ console.log("B", myArr)
 const myn2 = myArr.splice(1, 3)
 console.log(myn2); // index (0 - 5) 1 to 3 num cut and show
 console.log("C", myArr)
+*/
+
 
